@@ -58,6 +58,8 @@ Icon: https://simpleicons.org
 [![Neovim](https://img.shields.io/badge/NeoVim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=white)](https://vscodium.com)
 [![Fish](https://img.shields.io/badge/Fish-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://fishshell.com)
+[![Kitty](https://img.shields.io/badge/Kitty-784321?style=for-the-badge&logo=GNOME%20Terminal&logoColor=white)](https://sw.kovidgoyal.net/kitty)
+[![HomeManager](https://img.shields.io/badge/Home%20Manager-5277C3?style=for-the-badge&logo=NixOS&logoColor=white)](https://nix-community.github.io/home-manager)
 
 
 ## Stats
