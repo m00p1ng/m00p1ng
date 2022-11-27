@@ -42,6 +42,7 @@ Icon: https://simpleicons.org
 [![PostgresQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Redis](https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com)
+[![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org)
 
 ### Others
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
