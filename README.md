@@ -46,6 +46,8 @@ Icon: https://simpleicons.org
 
 ### Others
 [![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
+[![DigitalOcean](https://img.shields.io/badge/Digital%20Ocean-20232A?style=for-the-badge&logo=digitalocean)](https://www.digitalocean.com)
+[![Heroku](https://img.shields.io/badge/Heroku-20232A?style=for-the-badge&logo=heroku)](https://www.digitalocean.com)
 [![Firebase](https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logo=firebase)](https://firebase.google.com)
 [![Kibana](https://img.shields.io/badge/Kibana-20232A?style=for-the-badge&logo=Kibana&logoColor=005571)](https://www.elastic.co/kibana/)
 [![Grafana](https://img.shields.io/badge/grafana-20232A?style=for-the-badge&logo=grafana)](https://grafana.com)
