@@ -74,4 +74,4 @@ Icon: https://simpleicons.org
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m00p1ng&layout=compact&langs_count=10&hide_border=true&theme=transparent&hide=jupyter+notebook)](https://github.com/m00p1ng)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=m00p1ng&layout=compact&hide_border=true&theme=transparent&hide=other)](https://wakatime.com/@m00p1ng)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=m00p1ng&layout=compact&hide_border=true&theme=transparent&hide=other,git,gitconfig,gitignore,tutor,conf,text,Git+Config,ini,dosini)](https://wakatime.com/@m00p1ng)
