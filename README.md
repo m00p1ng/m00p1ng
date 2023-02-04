@@ -70,7 +70,7 @@ Icon: https://simpleicons.org
 
 [![wakatime](https://wakatime.com/badge/user/40ba0922-eaae-445d-b974-6d900e5f85fc.svg)](https://wakatime.com/@40ba0922-eaae-445d-b974-6d900e5f85fc)
 
-[![m00p1ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=m00p1ng&hide_border=true&theme=transparent&show_icons=true)](https://github.com/m00p1ng)
+[![m00p1ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=m00p1ng&hide_border=true&theme=transparent&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true)](https://github.com/m00p1ng)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m00p1ng&layout=compact&langs_count=10&hide_border=true&theme=transparent&hide=jupyter+notebook)](https://github.com/m00p1ng)
 
